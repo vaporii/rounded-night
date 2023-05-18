@@ -13,3 +13,17 @@
 
 **Light Mode (why?)**
 ![In server page](https://raw.githubusercontent.com/vaporii/rounded-night/main/images/whatthefuck.png)
+
+### **NOTICE:** All things are subject to change!
+
+# Usage
+
+## Vencord
+
+Just paste the URL [https://raw.githubusercontent.com/vaporii/rounded-night/main/style.css](https://raw.githubusercontent.com/vaporii/rounded-night/main/style.css) into your themes in settings.
+
+## BetterDiscord
+
+1. Download the theme file from [https://github.com/vaporii/rounded-night/blob/main/style.css](https://github.com/vaporii/rounded-night/blob/main/style.css)
+2. Click the "Open Themes Folder" button in the themes tab.
+3. Enable the theme.
