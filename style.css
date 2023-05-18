@@ -9,7 +9,7 @@
     --background-tertiary: #08080e;
     --channeltextarea-background: #000000;
     --channel-list-background: rgba(0, 0, 0, 0.37);
-    --avatar-wrapper-background: #000000;
+    --avatar-wrapper-background: #050505;
     --buttons-below-avatar: #1c1220;
 }
 
@@ -131,4 +131,62 @@
     border-radius: var(--radius-round);
     padding-bottom: 2px !important;
     height: 35px;
+}
+
+.root-1CAIjD {
+    padding-top: 15px;
+    border-radius: 20px;
+    background: var(--background-secondary);
+    border: 1px rgba(255, 255, 255, 0.158) solid;
+}
+
+.root-1CAIjD .horizontalReverse-60Katr {
+    padding-top: 15px;
+    border-top: 1px rgba(255, 255, 255, 0.158) solid;
+    border-radius: 0 0 20px 20px;
+    background: var(--background-primary);
+}
+
+.interactive-26HRN_ {
+    border-radius: var(--radius-round);
+    background: var(--channel-list-background);
+    margin-bottom: 3px;
+}
+
+.peopleListItem-u6dGxF {
+    border-radius: var(--radius-round) !important;
+    border: none;
+    background-color: var(--avatar-wrapper-background) !important;
+    margin: auto;
+    margin-bottom: 4px;
+    width: 90%;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition: transform 0.1s;
+}
+
+.peopleListItem-u6dGxF:hover {
+    border-radius: var(--radius-round) !important;
+    border: none;
+    background-color: var(--avatar-wrapper-background) !important;
+    margin: auto;
+    margin-bottom: 4px;
+    width: 90%;
+    padding-left: 15px;
+    padding-right: 15px;
+    transform: translateX(5px);
+}
+
+.searchBar-2aylmZ {
+    border: 1px rgba(255, 255, 255, 0.3) solid;
+    border-radius: var(--radius-round);
+    padding: 5px;
+}
+
+.item-3mHhwr {
+    border-radius: var(--radius-round) !important;
+}
+
+.itemCard-3Etziu {
+    border-radius: 20px;
 }
